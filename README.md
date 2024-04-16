@@ -3,5 +3,5 @@
 
 # Vue 3 + Vite
 
-npm install
+run npm install
 
